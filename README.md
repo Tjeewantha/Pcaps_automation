@@ -36,4 +36,6 @@ Note: Outputs will save on directroy where Pcap_authomation.py has placed
 
   python3 Pcap_authomation.py example.pcap
 
-
+## Note
+The script need to be improved more, I know there are so many simple codes that I can use to make it more simple and clean however, I worte this to make my work nice and easy.
+Thank you!
